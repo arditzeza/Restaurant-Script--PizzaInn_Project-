@@ -1,0 +1,36 @@
+BETA release 3 (June 1st 2013)
+i. Fixed some validation bugs
+
+BETA release 2 (May 15th 2013):
+i. Improved members area
+ii. Improved administration area
+iii. Some logic fixes
+iv. Some syntax fixes
+
+BETA release (May 7th 2013): 
+i. Multiple types of foods; not only Pizza. Can be added at the back-end.
+ii. Categories added.
+iii. Currencies added.
+iv. Both tables and partyhalls can be reserved.
+v. Ratings improved.
+vii. Specials improved.
+viii. Messaging improved.
+ix. Login/Register improved.
+x. Statistics improved.
+xi. Staff allocation improved (not yet complete).
+xii. Improved members area. 
+xiii. Improved administration area. 
+xiv. Improved product pages. 
+xv. Improved ordering/billing system (added a shopping cart). 
+xvi. Improved english.
+xvii. Demonstration company name changed to Food Plaza Restaurant.
+xvii. Bug fixes (If more bugs, please PM me). 
+xviii. And many other features.
+
+ALPHA release (May 7th 2012):
+i. Only pizza supported (a static product page).
+ii. Basic members area.
+iii. Basic administration area.
+iv. Poor english on certain pages.
+v. Demonstration company name is Pizza-Inn Restaurant.
+vi. Some bugs.

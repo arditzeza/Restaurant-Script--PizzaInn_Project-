@@ -1,0 +1,22 @@
+How to Install the Script:
+
+i) Download the script from the download section.
+
+ii) Extract the script in your localhost or web server.
+
+iii) Find the pizza_inn.sql file in the database dump folder.
+
+iv) Import the sql file in your database management system ("phpmyadmin" for localhost).
+
+v) If import is successful. We are not done yet!
+
+vii) Manually add a new administrator account in phpmyadmin or equivalent (table name is "pizza_admin"). This will be fixed in a stable release. PM me if you need any more help on this one.
+
+vii) Don't forget to change the database connection details in the config.php file in the connection folder(including within admin) to suite your server configuration. This will be fixed in a stable release. PM me if you need any more help on this one.
+
+viii) One more thing. Visit options in the administrator control panel to add categories, currencies, and other important features before doing anything else.
+
+vi) Please recommend this script and leave comments/PM me if you need any more help.
+
+
+Administrator Control Panel: www.yoursite.com/admin 
